@@ -1,7 +1,41 @@
-.DropDown{
-    padding:5px;
-    margin:5px;
+.dropDowns{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px;
 }
-#country{
-    width:20vw
+
+.citySelect {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial,sans-serif;
 }
+
+.dropDown {
+    padding: 10px;
+    font-size: 16px;
+}
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .first {
+    font-weight: 800;
+    font-family: Arial, sans-serif;
+  }
+  .big {
+    font-weight: 800;
+    font-size: 25px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .fade {
+    color: #888;
+    font-family: Arial, sans-serif;
+  }
+  h1{
+    text-align: center;
+  }
+  
